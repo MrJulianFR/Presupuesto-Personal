@@ -7,7 +7,7 @@ Proyecto desarrollado con **JavaScript puro**, enfocado en reforzar lógica de p
 ---
 
 ## 🚀 Demo
-👉 (Aquí puedes poner el link de GitHub Pages cuando lo actives)
+👉  https://mrjulianfr.github.io/Presupuesto-Personal/
 
 ---
 

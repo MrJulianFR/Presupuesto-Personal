@@ -48,3 +48,34 @@ Proyecto desarrollado con **JavaScript puro**, enfocado en reforzar lógica de p
 
 ## 📂 Estructura del proyecto
 
+presupuesto-personal/
+├── index.html
+├── css/
+│ └── estilos.css
+├── js/
+│ └── app.js
+└── README.md
+---
+
+## 🎯 Objetivo del proyecto
+
+Este proyecto fue creado con fines **educativos y de práctica**, como parte del proceso de aprendizaje en JavaScript y desarrollo frontend, y forma parte de mi portafolio personal.
+
+---
+
+## 👤 Autor
+
+**Julián Andrés**  
+Desarrollador FullStack en formación  
+📍 Medellín, Colombia  
+
+- GitHub: [@MrJulianFR](https://github.com/MrJulianFR)
+
+---
+
+## 📌 Próximas mejoras
+
+- Guardar datos en LocalStorage
+- Diseño responsive
+- Validaciones avanzadas
+- Gráficas de ingresos vs egresos
